@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="com.example.aman.materialtest.fragments.FragmentBoxOffice">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listMovieHits"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    //create a separate layout file to describe how we want every single movie
+    //item to look we call it custom_movie_box_office.xml
+    <TextView
+        android:id="@+id/textVolleyError"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:visibility="gone"/>
+</FrameLayout>
+

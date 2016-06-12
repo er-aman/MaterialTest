@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".activities.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/tabsUsingLibrary"
+        android:orderInCategory="100"
+        android:title="Using Library"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/vectorTestActivity"
+        android:orderInCategory="100"
+        android:title="Vector Test Activity"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/RecyclerAnimator"
+        android:orderInCategory="100"
+        android:title="RecyclerAnimator"
+        app:showAsAction="never"/>
+</menu>

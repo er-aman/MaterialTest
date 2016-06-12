@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MaterialTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="tabs">
+        <item>Tab1</item>
+        <item>Tab2</item>
+        <item>Tab3</item>
+    </string-array>
+    <string name="title_activity_activity_using_tab_library">Activity_using_tab_library</string>
+    <string name="title_activity_vector_test">VectorTestActivity</string>
+    <string name="error_timeout">Connection Colud not be established</string>
+    <string name="error_auth_failure">Not authenticated</string>
+    <string name="error_network">Check network Connection</string>
+    <string name="error_parser">Error while parsing</string>
+    <string name="title_activity_system_overlay">SystemOverlayActivity</string>
+    <string name="title_activity_recycler_item_animations">RecyclerItemAnimations</string>
+    <string name="add_item">Add Item</string>
+</resources>
